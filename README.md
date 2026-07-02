@@ -1,6 +1,6 @@
-# vivienndha-website
+# viviendha-website
 Official website for Viviendha developers.
-##Tech Stack
+#Tech Stack
 | Category        | Technology                      |
 | --------------- | ------------------------------- |
 | Framework       | Next.js 15                      |
